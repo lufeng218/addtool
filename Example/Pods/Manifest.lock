@@ -1,0 +1,16 @@
+PODS:
+  - addtool (0.1.0)
+
+DEPENDENCIES:
+  - addtool (from `../`)
+
+EXTERNAL SOURCES:
+  addtool:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  addtool: de871940170da7148265404f6c9bdc6147ee1d9c
+
+PODFILE CHECKSUM: 1ce1f38bad9e216e5f2135552c51f70dd141a94f
+
+COCOAPODS: 1.11.2

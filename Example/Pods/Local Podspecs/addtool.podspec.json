@@ -1,0 +1,22 @@
+{
+  "name": "addtool",
+  "version": "0.1.0",
+  "summary": "A short description of addtool.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/649663624@qq.com/addtool",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "649663624@qq.com": "zhengsq@ename.com"
+  },
+  "source": {
+    "git": "https://github.com/649663624@qq.com/addtool.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "addtool/Classes/**/*"
+}

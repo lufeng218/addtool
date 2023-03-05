@@ -1,0 +1,6 @@
+framework module addtool {
+  umbrella header "addtool-umbrella.h"
+
+  export *
+  module * { export * }
+}
